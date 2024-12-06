@@ -1,0 +1,59 @@
+# Bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+
+# IDEs and text editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python packaging
+*.tar.gz
+*.whl
+*.zip
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.cache/
+
+# Test and coverage reports
+coverage.xml
+nosetests.xml
+*.cover
+*.tox
+*.nox
+*.coverage
+*.hypothesis/
+
+# Docker
+Dockerfile*
+docker-compose*
+*.env
+
+# Logs
+*.log
